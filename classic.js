@@ -779,6 +779,8 @@ break
 case 'menu': case 'help': {
 await loading()
                             ewe = `
+			    𝖥𝖮𝖫𝖫𝖮𝖶 𝖧𝖤𝖱𝖤: https://whatsapp.com/channel/0029Va965tC84OmF6eA0F93m
+       
 ┏━━━⟞⟢ *𝗫𝗲𝗼𝗻 𝗠𝗗* ⟣━━⟢
 ┃  ➥ 𝙱𝙴𝙻𝙾𝙽𝙶𝚂 𝚃𝙾 𝙼𝚁 𝙵𝚁𝙰𝙽𝙺
 ┃  ➥ 𝙷𝚄𝙼𝙰𝙽 𝚄𝚂𝙸𝙽𝙶 𝙼𝙴 : ${pushname}}
@@ -816,13 +818,13 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: ' ⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',
-  body: 'ᚙᚘ ⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⫺ ᚘᚙ', 
+  title: ' 𝖬𝖱 𝖥𝖱𝖠𝖭𝖪',
+  body: '𝖢𝖮𝖮𝖫 𝖣𝖴𝖣𝖤 𝖬𝖱 𝖥𝖱𝖠𝖭𝖪', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
   MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk`,
+  sourceUrl:`https://whatsapp.com/channel/0029Va965tC84OmF6eA0F93m`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
